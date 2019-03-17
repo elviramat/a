@@ -25,7 +25,6 @@ public class Voto {
 
 	public String getCorso() {
 		return corso;
-		sysout;
 	}
 
 	public void setCorso(String corso) {
